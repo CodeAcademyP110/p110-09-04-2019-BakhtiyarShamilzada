@@ -1,0 +1,130 @@
+body
+{
+  background-color: rgb(255, 187, 0);
+}
+
+*
+{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+/* li:hover
+{
+  background-color: #ffc107 !important;
+  cursor: pointer;
+}
+li.active
+{
+  background-color: #ffc107 !important;
+}
+p
+{
+  position: absolute;
+  visibility: hidden;
+  opacity: 0;
+}
+.active
+{
+  visibility: visible;
+  opacity: 1;
+} */
+
+/* Task 1 */
+
+/* li
+{
+  text-transform: uppercase;
+  padding: 5px 50px !important;
+}
+
+li:hover
+{
+  color: rgb(151, 151, 151) !important;
+  cursor: pointer;
+}
+li.active
+{
+  background-color: white !important;
+}
+p
+{
+  position: absolute;
+  visibility: hidden;
+  opacity: 0;
+}
+.active
+{
+  visibility: visible;
+  opacity: 1;
+} */
+
+/* Task 2 */
+
+li
+{
+  text-transform: uppercase;
+  padding: 5px 50px !important;
+}
+
+li:hover
+{
+  color: rgb(151, 151, 151) !important;
+  cursor: pointer;
+}
+li.active
+{
+  background-color: white !important;
+}
+.pagination
+{
+  width: 125px;
+}
+i
+{
+  cursor: pointer;
+}
+.div
+{
+  width: 834px;
+  padding: 30px;
+  background: white;
+  position: absolute;
+  visibility: hidden;
+  opacity: 0;
+}
+.active
+{
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Task 3 */
+
+/* li
+{
+  margin-left: 85px !important;
+  width: 10px;
+  height: 100px;
+  list-style: none;
+  cursor: pointer;
+}
+.li-1
+{
+  background-color: blue;
+}
+.li-2
+{
+  background-color: red;
+}
+.li-3
+{
+  background-color: green;
+}
+.box
+{
+  width: 0;
+  height: 300px;
+  background-color: blue;
+  transition: .3s linear;
+  animation: box .3s timing-function delay iteration-count direction fill-mode;
+} */
